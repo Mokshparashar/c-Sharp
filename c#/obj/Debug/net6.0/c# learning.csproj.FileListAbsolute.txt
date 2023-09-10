@@ -1,0 +1,15 @@
+C:\Users\sony\Desktop\c# learning\obj\Debug\net6.0\c# learning.csproj.AssemblyReference.cache
+C:\Users\sony\Desktop\c# learning\obj\Debug\net6.0\c# learning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sony\Desktop\c# learning\obj\Debug\net6.0\c# learning.AssemblyInfoInputs.cache
+C:\Users\sony\Desktop\c# learning\obj\Debug\net6.0\c# learning.AssemblyInfo.cs
+C:\Users\sony\Desktop\c# learning\obj\Debug\net6.0\c# learning.csproj.CoreCompileInputs.cache
+C:\Users\sony\Desktop\c# learning\bin\Debug\net6.0\c# learning.exe
+C:\Users\sony\Desktop\c# learning\bin\Debug\net6.0\c# learning.deps.json
+C:\Users\sony\Desktop\c# learning\bin\Debug\net6.0\c# learning.runtimeconfig.json
+C:\Users\sony\Desktop\c# learning\bin\Debug\net6.0\c# learning.dll
+C:\Users\sony\Desktop\c# learning\bin\Debug\net6.0\c# learning.pdb
+C:\Users\sony\Desktop\c# learning\obj\Debug\net6.0\c# learning.dll
+C:\Users\sony\Desktop\c# learning\obj\Debug\net6.0\refint\c# learning.dll
+C:\Users\sony\Desktop\c# learning\obj\Debug\net6.0\c# learning.pdb
+C:\Users\sony\Desktop\c# learning\obj\Debug\net6.0\c# learning.genruntimeconfig.cache
+C:\Users\sony\Desktop\c# learning\obj\Debug\net6.0\ref\c# learning.dll
